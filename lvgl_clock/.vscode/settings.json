@@ -1,0 +1,31 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "d:\\ESP\\ESP_IDF\\v5.5",
+  "idf.pythonInstallPath": "d:\\ESP\\Tools\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32p4-builtin.cfg"
+  ],
+  "idf.portWin": "COM13",
+  "idf.toolsPathWin": "d:\\ESP\\Tools",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32p4"
+  },
+  "clangd.path": "d:\\ESP\\Tools\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=d:\\ESP\\Tools\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+    "--compile-commands-dir=${workspaceFolder}\\build"
+  ],
+  "idf.flashType": "UART",
+  "files.associations": {
+    "esp-bsp.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "display.h": "c",
+    "esp_hosted_bt.h": "c",
+    "esp_wifi_remote.h": "c",
+    "esp_wifi.h": "c",
+    "esp_bluedroid_hci.h": "c",
+    "event_groups.h": "c"
+  }
+}

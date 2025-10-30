@@ -1,0 +1,16 @@
+{
+  "codename": "number150",
+  "ttf_path": "/assets/小米字体MiSans-Regular.ttf",
+  "bin_path": "/assets\\ui_font_number150.bin",
+  "c_path": "/assets\\ui_font_number150.c",
+  "cfg_path": "/assets\\ui_font_number150.fcfg",
+  "size": 150,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

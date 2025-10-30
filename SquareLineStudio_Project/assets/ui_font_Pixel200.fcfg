@@ -1,0 +1,16 @@
+{
+  "codename": "Pixel200",
+  "ttf_path": "/assets/10Pixel-Regular.ttf",
+  "bin_path": "/assets\\ui_font_Pixel200.bin",
+  "c_path": "/assets\\ui_font_Pixel200.c",
+  "cfg_path": "/assets\\ui_font_Pixel200.fcfg",
+  "size": 200,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "1234567890-:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

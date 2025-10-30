@@ -1,0 +1,16 @@
+{
+  "codename": "number100",
+  "ttf_path": "/assets/小米字体MiSans-Regular.ttf",
+  "bin_path": "/assets\\ui_font_number100.bin",
+  "c_path": "/assets\\ui_font_number100.c",
+  "cfg_path": "/assets\\ui_font_number100.fcfg",
+  "size": 100,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

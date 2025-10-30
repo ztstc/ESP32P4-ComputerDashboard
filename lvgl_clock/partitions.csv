@@ -1,0 +1,9 @@
+# Name, Type, SubType, Offset, Size, Flags
+# NVS 分区
+nvs, data, nvs, 0x9000, 0x6000,
+
+# PHY 初始化数据分区
+phy_init, data, phy, 0xf000, 0x1000,
+
+# 主应用程序分区 - 增加到 31MB
+factory, app, factory, 0x10000, 0x1F00000,

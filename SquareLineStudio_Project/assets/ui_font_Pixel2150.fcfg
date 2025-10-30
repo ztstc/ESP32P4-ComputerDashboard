@@ -1,0 +1,16 @@
+{
+  "codename": "Pixel2150",
+  "ttf_path": "/assets/PixelMplus12-Regular.ttf",
+  "bin_path": "/assets\\ui_font_Pixel2150.bin",
+  "c_path": "/assets\\ui_font_Pixel2150.c",
+  "cfg_path": "/assets\\ui_font_Pixel2150.fcfg",
+  "size": 150,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "1234567890-:",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

@@ -1,0 +1,164 @@
+{
+  "deftheme": {
+    "name": "Default",
+    "properties": [
+      {
+        "nid": 1000206,
+        "strtype": "THEME_COLOR",
+        "strval": "Text",
+        "intarray": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "InheritedType": 0
+      },
+      {
+        "nid": 1000207,
+        "strtype": "THEME_COLOR",
+        "strval": "Background",
+        "intarray": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "InheritedType": 0
+      },
+      {
+        "nid": 1000208,
+        "strtype": "THEME_COLOR",
+        "strval": "Highlight",
+        "intarray": [
+          39,
+          69,
+          67,
+          255
+        ],
+        "InheritedType": 0
+      },
+      {
+        "nid": 1000268,
+        "strtype": "THEME_COLOR",
+        "strval": "BackgroundButtom",
+        "intarray": [
+          76,
+          76,
+          76,
+          255
+        ],
+        "InheritedType": 0
+      }
+    ]
+  },
+  "themes": [
+    {
+      "name": "Dark",
+      "properties": [
+        {
+          "nid": 1000206,
+          "strtype": "THEME_COLOR",
+          "strval": "Text",
+          "intarray": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": 1000207,
+          "strtype": "THEME_COLOR",
+          "strval": "Background",
+          "intarray": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": 1000208,
+          "strtype": "THEME_COLOR",
+          "strval": "Highlight",
+          "intarray": [
+            16,
+            88,
+            67,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": 1000268,
+          "strtype": "THEME_COLOR",
+          "strval": "BackgroundButtom",
+          "intarray": [
+            76,
+            76,
+            76,
+            255
+          ],
+          "InheritedType": 0
+        }
+      ]
+    },
+    {
+      "name": "Light",
+      "properties": [
+        {
+          "nid": 1000206,
+          "strtype": "THEME_COLOR",
+          "strval": "Text",
+          "intarray": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": 1000207,
+          "strtype": "THEME_COLOR",
+          "strval": "Background",
+          "intarray": [
+            219,
+            247,
+            253,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": 1000208,
+          "strtype": "THEME_COLOR",
+          "strval": "Highlight",
+          "intarray": [
+            168,
+            212,
+            209,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": 1000268,
+          "strtype": "THEME_COLOR",
+          "strval": "BackgroundButtom",
+          "intarray": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "InheritedType": 0
+        }
+      ]
+    }
+  ],
+  "selected_theme": "Dark"
+}
