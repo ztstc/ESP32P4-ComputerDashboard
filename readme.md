@@ -13,27 +13,27 @@
 
 
 
-[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151016.jpg" alt="IMG_20251030_151016" style="zoom:15%;" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151016.jpg)
+[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151016.jpg" alt="IMG_20251030_151016" width="30%" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151016.jpg)
 
 ### 2.电脑性能参数显示
 
 
 
-[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151010.jpg" alt="IMG_20251030_151010" style="zoom:15%;" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151010.jpg)
+[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151010.jpg" alt="IMG_20251030_151010" width="30%" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151010.jpg)
 
 ### 3.天气预报显示
 
 
 
-[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151022.jpg" alt="IMG_20251030_151022" style="zoom:15%;" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151022.jpg)
+[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151022.jpg" alt="IMG_20251030_151022" width="30%" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151022.jpg)
 
 ### 4.类MIUI控制面板
 
 
 
-[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151031.jpg" alt="IMG_20251030_151031" style="zoom:15%;" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151031.jpg)
+[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151031.jpg" alt="IMG_20251030_151031" width="30%" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151031.jpg)
 
-[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151042.jpg" alt="IMG_20251030_151042" style="zoom:15%;" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151042.jpg)
+[<img src="https://github.com/ztstc/ESP32P4-ComputerDashboard/raw/main/assets/IMG_20251030_151042.jpg" alt="IMG_20251030_151042" width="30%" />](https://github.com/ztstc/ESP32P4-ComputerDashboard/blob/main/assets/IMG_20251030_151042.jpg)
 
 ## 功能实现
 
